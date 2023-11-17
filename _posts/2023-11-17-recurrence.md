@@ -2,7 +2,7 @@
 title: 오픈소스소프트웨어 과제
 background: https://cdnb.artstation.com/p/assets/images/images/007/095/957/large/mark-chang-lab3.jpg
 layout: post
-subtitle: A minion breaks the code
+subtitle: github page 제작하기
 artist: artstation.com/equinoz
 ---
 
